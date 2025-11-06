@@ -28,16 +28,27 @@ conducted as part of the Master of Computer Science program at the **University 
 ## Repository Structure
 
 ├── Decision Tree Notebooks/
-│ ├── NSL-KDD/ 
+│
+│ ├── NSL-KDD/
+│
 │ ├── UNSW/
+│
 │ └── TON-IoT/
+│
 ├── ExtraTree Notebooks/
+│
 │ ├── NSL-KDD/
+│
 │ ├── UNSW/
+│
 │ └── TON-IoT/
+│
 ├── Random Forest Notebooks/
+│
 │ ├── NSL-KDD/
+│
 │ ├── UNSW/
+│
 │ └── TON-IoT/
 │
 └── README.md
