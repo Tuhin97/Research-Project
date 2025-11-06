@@ -28,29 +28,29 @@ conducted as part of the Master of Computer Science program at the **University 
 ## Repository Structure
 
 ├── Decision Tree Notebooks/
-│
+
 │ ├── NSL-KDD/
-│
+
 │ ├── UNSW/
-│
+
 │ └── TON-IoT/
-│
+
 ├── ExtraTree Notebooks/
-│
+
 │ ├── NSL-KDD/
-│
+
 │ ├── UNSW/
-│
+
 │ └── TON-IoT/
-│
+
 ├── Random Forest Notebooks/
 │
 │ ├── NSL-KDD/
-│
+
 │ ├── UNSW/
-│
+
 │ └── TON-IoT/
-│
+
 └── README.md
 
 ---
@@ -93,10 +93,12 @@ using **Python 3.12**, **Torch 2.3.1**, **Transformers 4.41**, and **Scikit-lear
 1. Clone this repository:
 
    a. git clone https://github.com/Tuhin97/Research-Project.git
+   
    b. cd Research-Project
 3. Authenticate with Hugging Face for Gemma or LLaMA-2:
 
    a. from huggingface_hub import login
+   
    b. login(token="your_hf_token_here")
 5. Open any notebook in Jupyter or Colab and run.
 
