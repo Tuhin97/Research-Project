@@ -75,16 +75,16 @@ using **Python 3.12**, **Torch 2.3.1**, **Transformers 4.41**, and **Scikit-lear
 | **UNSW-NB15** | 2015 | Hybrid (Network + Application) | 257k | UNSW Canberra Cyber Range Lab |
 | **TON-IoT** | 2020 | IoT + Sensor Network | 461k | CSIRO Data61, Australia |
 
-All datasets are stored under `datasets/` and used for training/testing across classifiers.
-
 ---
 
 ## How to Reproduce
 
 1. Clone this repository:
+
    a. git clone https://github.com/Tuhin97/Research-Project.git
    b. cd Research-Project
 3. Authenticate with Hugging Face for Gemma or LLaMA-2:
+
    a. from huggingface_hub import login
    b. login(token="your_hf_token_here")
 5. Open any notebook in Jupyter or Colab and run.
