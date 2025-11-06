@@ -27,33 +27,10 @@ conducted as part of the Master of Computer Science program at the **University 
 
 ## Repository Structure
 
-├── Decision Tree Notebooks/
-
-│ ├── NSL-KDD/
-
-│ ├── UNSW/
-
-│ └── TON-IoT/
-
-├── ExtraTree Notebooks/
-
-│ ├── NSL-KDD/
-
-│ ├── UNSW/
-
-│ └── TON-IoT/
-
-├── Random Forest Notebooks/
-│
-│ ├── NSL-KDD/
-
-│ ├── UNSW/
-
-│ └── TON-IoT/
-
-└── README.md
-
----
+The repository is organized into clearly defined modules to ensure reproducibility and ease of navigation.
+All experiment notebooks are stored in the notebooks/ directory, where each Jupyter notebook corresponds to a specific LLM–classifier combination (e.g., RandomForest_Gemma.ipynb, DecisionTree_GPT2.ipynb, ExtraTrees_LLaMA.ipynb).
+The root of the repository includes this README.md for detailed instructions.
+This structured layout facilitates straightforward replication of experiments and easy integration into future extensions or collaborative research workflows.
 
 ## Overview
 
